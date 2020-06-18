@@ -1,0 +1,30 @@
+.header{
+	background-color: red;
+	min-height: 80px;
+}
+
+.container{
+	overflow: hidden;
+}
+.box1{
+	background-color: purple;
+	width: 33.5%;
+	min-height: 150px;
+	float: left;
+}
+.box2{
+	background-color: coral;
+	width: 33%;
+	min-height: 150px;
+	float: left;
+}
+.box3{
+	background-color: aqua;
+	width: 33.5%;
+	min-height: 150px;
+	float: left;
+}
+.footer{
+	background-color: blue;
+	min-height: 80px;
+}
